@@ -41,7 +41,7 @@
           </li> -->
           <!-- Messages Dropdown Menu -->
           <!-- <li class="nav-item">
-            <a class="nav-link" data-widget="fullscreen" href="#" role="button">
+            <a class="nav-link" data-widget="full screen" href="#" role="button">
             <i class="fas fa-expand-arrows-alt"></i>
             </a>
           </li>
